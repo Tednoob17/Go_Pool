@@ -1,4 +1,4 @@
-# Exercise #1: Quiz Game
+# Exercise #1: [Quiz Game](https://courses.calhoun.io/lessons/les_goph_01)
 
 [![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/quiz)
 
